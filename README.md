@@ -8,11 +8,7 @@ This project demonstrates how to implement Logistic Regression both from scratch
 - [Dependencies](#dependencies)
 - [Usage](#usage)
 - [Project Structure](#project-structure)
-- [Content Overview](#content-overview)
-- [Implementation Details](#implementation-details)
-  - [Logistic Regression from Scratch](#logistic-regression-from-scratch)
-  - [Logistic Regression with Scikit-Learn](#logistic-regression-with-scikit-learn)
-- [Evaluation](#evaluation)
+
 
 
 ## Installation
@@ -47,9 +43,13 @@ pip install numpy pandas matplotlib scikit-learn jupyter
 
 ## Project Structure
 logistic-regression-project/
+
 │
+
 ├── Logistic_Regression.ipynb       # Jupyter Notebook with implementations
+
 ├── README.md                       # This README file
+
 └── requirements.txt                # List of required packages
 
 
